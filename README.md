@@ -12,7 +12,7 @@ This project implements a simple "Timestamp Microservice" as part of the freeCod
 **Getting Started:**
 
 1. **Prerequisites:** Node.js and npm or yarn installed on your system.
-2. **Clone this repository:** `git clone https://github.com/your_username/timestamp-microservice.git`
+2. **Clone this repository:** `git clone git@github.com:karimAoulallay/fcc-timestamp-microservice.git`
 3. **Install dependencies:** `npm install` or `yarn install`
 4. **Run the project:** `npm start` or `yarn start`
 5. **Test the API:**
